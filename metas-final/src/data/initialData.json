@@ -1,0 +1,474 @@
+[
+  {
+    "id": "meta_1",
+    "nombre": "Impulsar la reglamentación y articulación operativa de la Ley de Garantía Mobiliaria para ampliar el acceso al crédito de las MIPYMES.",
+    "indicador": "Incremento del uso de garantías alternativas y reducción de restricciones de acceso al crédito para MIPYMES.",
+    "direccion": "DGFI VMMIPYMES",
+    "porcentaje_meta": 10.0,
+    "hitos": [
+      {
+        "id": "hito_meta_1_1",
+        "nombre": "Hito 1: Acompañar la elaboración de propuesta técnica y mesa interinstitucional con BCP, MEF, sector financiero y actores jurídicos.",
+        "fecha": "2026-12-31",
+        "peso": 10.0,
+        "completado": false,
+        "progreso": 0
+      }
+    ],
+    "estado": "en_progreso",
+    "prioridad": "media",
+    "fecha_creacion": "2025-01-01",
+    "notas": ""
+  },
+  {
+    "id": "meta_2",
+    "nombre": "Promover el desarrollo del Factoring como mecanismo alternativo de financiamiento para MIPYMES.",
+    "indicador": "Incremento del financiamiento de capital operativo mediante cesión de facturas, cheques u otros documentos a cobrar, reduciendo la dependencia del crédito tradicional.",
+    "direccion": "Sin asignar",
+    "porcentaje_meta": 40.0,
+    "hitos": [
+      {
+        "id": "hito_meta_2_1",
+        "nombre": "Hito 1: Diagnóstico normativo y operativo del mercado de factoring nacional. (Ley de Factoraje)",
+        "fecha": "2026-12-31",
+        "peso": 10.0,
+        "completado": false,
+        "progreso": 0
+      },
+      {
+        "id": "hito_meta_2_2",
+        "nombre": "Hito 2: Desarrollo e implementación piloto de plataforma de negociacion de pagarés electrónicos (Factura electrónica) para empresas del Programa Hambre Cero. (Plataforma ADELANTA)",
+        "fecha": "2026-12-31",
+        "peso": 70.0,
+        "completado": false,
+        "progreso": 0
+      }
+    ],
+    "estado": "en_progreso",
+    "prioridad": "media",
+    "fecha_creacion": "2025-01-01",
+    "notas": ""
+  },
+  {
+    "id": "meta_3",
+    "nombre": "Impulsar el marco de desarrollo del Crowdfunding para financiamiento alternativo de emprendimientos y MIPYMES.",
+    "indicador": "Diversificación de fuentes de financiamiento para emprendimientos y MIPYMES mediante plataformas digitales de inversión colectiva",
+    "direccion": "Sin asignar",
+    "porcentaje_meta": 5.0,
+    "hitos": [
+      {
+        "id": "hito_meta_3_1",
+        "nombre": "Hito 1: Instalación de mesa técnica de trabajo con el sector financiero, fintech y actores regulatorios.",
+        "fecha": "2026-12-31",
+        "peso": 5.0,
+        "completado": false,
+        "progreso": 0
+      }
+    ],
+    "estado": "en_progreso",
+    "prioridad": "media",
+    "fecha_creacion": "2025-01-01",
+    "notas": ""
+  },
+  {
+    "id": "meta_4",
+    "nombre": "Promover el fortalecimiento de las Sociedades de Garantía Recíproca (SGR) para ampliar cobertura de garantías a MIPYMES.",
+    "indicador": "Mayor acceso al financiamiento mediante garantías alternativas y reducción de barreras de acceso crediticio para MIPYMES",
+    "direccion": "Sin asignar",
+    "porcentaje_meta": 5.0,
+    "hitos": [
+      {
+        "id": "hito_meta_4_1",
+        "nombre": "Hito 1: Elaboración de propuesta técnica para fortalecimiento del modelo SGR en Paraguay.",
+        "fecha": "2026-08-31",
+        "peso": 10.0,
+        "completado": false,
+        "progreso": 0
+      },
+      {
+        "id": "hito_meta_4_2",
+        "nombre": "Hito 2: Articulación con gremios, cooperativas y sector financiero para evaluación de implementación piloto.",
+        "fecha": "2026-12-31",
+        "peso": 0,
+        "completado": false,
+        "progreso": 0
+      }
+    ],
+    "estado": "en_progreso",
+    "prioridad": "media",
+    "fecha_creacion": "2025-01-01",
+    "notas": ""
+  },
+  {
+    "id": "meta_5",
+    "nombre": "Impulsar propuestas técnicas relacionadas con mecanismos de insolvencia para MIPYMES.",
+    "indicador": "Mejora de mecanismos de reorganización empresarial y reducción de mortalidad empresarial de MIPYMES.",
+    "direccion": "Sin asignar",
+    "porcentaje_meta": 10.0,
+    "hitos": [
+      {
+        "id": "hito_meta_5_1",
+        "nombre": "Hito 1: Acompañar la elaboración de propuesta técnica y mesa interinstitucional con partes interesadas y actores jurídicos",
+        "fecha": "2026-12-31",
+        "peso": 10.0,
+        "completado": false,
+        "progreso": 0
+      }
+    ],
+    "estado": "en_progreso",
+    "prioridad": "media",
+    "fecha_creacion": "2025-01-01",
+    "notas": ""
+  },
+  {
+    "id": "meta_6",
+    "nombre": "Promover la utilización de documentos transmisibles electrónicos aplicados al financiamiento de MIPYMES.",
+    "indicador": "Modernización de instrumentos financieros y reducción de costos operativos en procesos de financiamiento empresarial.",
+    "direccion": "Sin asignar",
+    "porcentaje_meta": 10.0,
+    "hitos": [
+      {
+        "id": "hito_meta_6_1",
+        "nombre": "Hito 1: Análisis técnico-jurídico sobre implementación de documentos transmisibles electrónicos.",
+        "fecha": "2026-12-31",
+        "peso": 10.0,
+        "completado": false,
+        "progreso": 0
+      },
+      {
+        "id": "hito_meta_6_2",
+        "nombre": "Hito 2: Articulación con BCP, MEF, sector financiero y actores tecnológicos para evaluación de interoperabilidad.",
+        "fecha": "2026-12-31",
+        "peso": 10.0,
+        "completado": false,
+        "progreso": 0
+      }
+    ],
+    "estado": "en_progreso",
+    "prioridad": "media",
+    "fecha_creacion": "2025-01-01",
+    "notas": ""
+  },
+  {
+    "id": "meta_7",
+    "nombre": "Diseñar mecanismos de Fideicomisos MIPYMES para fortalecimiento del financiamiento productivo. (FONAMIPYMES)",
+    "indicador": "Incremento de instrumentos estructurados de financiamiento para proyectos y capitalización de MIPYMES.",
+    "direccion": "Sin asignar",
+    "porcentaje_meta": 57.5,
+    "hitos": [
+      {
+        "id": "hito_meta_7_1",
+        "nombre": "Hito 1: Diseño e implementación piloto de fideicomisos orientados a asistencia tecnica para sectores estratégicos MIPYMES.",
+        "fecha": "2026-12-31",
+        "peso": 100.0,
+        "completado": false,
+        "progreso": 0
+      },
+      {
+        "id": "hito_meta_7_2",
+        "nombre": "Hito 2: Articulación con fiduciarios, banca pública y sector financiero para evaluación operativa conjunta.",
+        "fecha": "2026-12-31",
+        "peso": 15.0,
+        "completado": false,
+        "progreso": 0
+      }
+    ],
+    "estado": "en_progreso",
+    "prioridad": "media",
+    "fecha_creacion": "2025-01-01",
+    "notas": ""
+  },
+  {
+    "id": "meta_8",
+    "nombre": "Promover adecuaciones regulatorias del BCP orientadas a mejorar el acceso al crédito para MIPYMES.",
+    "indicador": "Mayor inclusión financiera y flexibilización de condiciones regulatorias aplicables al financiamiento MIPYME.",
+    "direccion": "Sin asignar",
+    "porcentaje_meta": 30.0,
+    "hitos": [
+      {
+        "id": "hito_meta_8_1",
+        "nombre": "Hito 1: Elaboración de documento técnico sobre adecuaciones regulatorias vinculadas a créditos MIPYMES.",
+        "fecha": "2026-12-31",
+        "peso": 10.0,
+        "completado": false,
+        "progreso": 0
+      },
+      {
+        "id": "hito_meta_8_2",
+        "nombre": "Hito 2: Mesas de trabajo con BCP, ASOBAN, ABAFI, cooperativas y otras partes interesadas para validación técnica de propuestas.",
+        "fecha": "2026-12-31",
+        "peso": 50.0,
+        "completado": false,
+        "progreso": 0
+      }
+    ],
+    "estado": "en_progreso",
+    "prioridad": "media",
+    "fecha_creacion": "2025-01-01",
+    "notas": ""
+  },
+  {
+    "id": "meta_9",
+    "nombre": "Fortalecer y reglamentar la Red Nacional de Centros de Desarrollo Empresarial del MIC",
+    "indicador": "Sistema nacional servicios de desarrollo empresarial, con reglas claras de gobernanza, operación y calidad, con impacto sobre las MIPYMES y emprendedores.",
+    "direccion": "DGCGAT VMMIPYMES",
+    "porcentaje_meta": 70.0,
+    "hitos": [
+      {
+        "id": "hito_meta_9_1",
+        "nombre": "Reglamento de Centros N1 (CAE) elaborado y validado. Reglamento Operativo de Centros N2 (SBDC) actualizado. Borrador normativo de Centros N3 (Centros Tecnológicos).",
+        "fecha": "2026-12-31",
+        "peso": 70.0,
+        "completado": false,
+        "progreso": 0
+      }
+    ],
+    "estado": "en_progreso",
+    "prioridad": "media",
+    "fecha_creacion": "2025-01-01",
+    "notas": ""
+  },
+  {
+    "id": "meta_10",
+    "nombre": "Consolidar los Centros SBDC como centros de referencia en servicios avanzados",
+    "indicador": "La atención especializada incrementará la productividad, formalización y sostenibilidad de las MIPYMES.",
+    "direccion": "Sin asignar",
+    "porcentaje_meta": 41.7,
+    "hitos": [
+      {
+        "id": "hito_meta_10_1",
+        "nombre": "1.320 asesorías brindadas.",
+        "fecha": "2026-12-31",
+        "peso": 80.0,
+        "completado": false,
+        "progreso": 0
+      },
+      {
+        "id": "hito_meta_10_2",
+        "nombre": "14.976 horas de asesoramiento.",
+        "fecha": "2026-12-31",
+        "peso": 20.0,
+        "completado": false,
+        "progreso": 0
+      },
+      {
+        "id": "hito_meta_10_3",
+        "nombre": "120 eventos de capacitación con 2.574 participantes.",
+        "fecha": "2026-12-31",
+        "peso": 13.0,
+        "completado": false,
+        "progreso": 0
+      },
+      {
+        "id": "hito_meta_10_4",
+        "nombre": "Incremento de ventas: Gs. 7.800 millones",
+        "fecha": "2026-12-31",
+        "peso": 74.0,
+        "completado": false,
+        "progreso": 0
+      },
+      {
+        "id": "hito_meta_10_5",
+        "nombre": "Inyección de capital: Gs. 7.020 millones",
+        "fecha": "2026-12-31",
+        "peso": 12.0,
+        "completado": false,
+        "progreso": 0
+      },
+      {
+        "id": "hito_meta_10_6",
+        "nombre": "312 empleos generados",
+        "fecha": "2026-12-31",
+        "peso": 33.0,
+        "completado": false,
+        "progreso": 0
+      },
+      {
+        "id": "hito_meta_10_7",
+        "nombre": "132 empresas formalizadas",
+        "fecha": "2026-12-31",
+        "peso": 60.0,
+        "completado": false,
+        "progreso": 0
+      }
+    ],
+    "estado": "en_progreso",
+    "prioridad": "media",
+    "fecha_creacion": "2025-01-01",
+    "notas": ""
+  },
+  {
+    "id": "meta_11",
+    "nombre": "Fortalecer la productividad y competitividad MIPYME mediante proyectos estratégicos y cooperación internacional",
+    "indicador": "Incremento de la productividad y calidad en MIPYMES de territorios priorizados.",
+    "direccion": "Sin asignar",
+    "porcentaje_meta": 65.0,
+    "hitos": [
+      {
+        "id": "hito_meta_11_1",
+        "nombre": "Misión KAIZEN ejecutada en Central, Itapúa y Alto Paraná.",
+        "fecha": "2026-12-31",
+        "peso": 65.0,
+        "completado": false,
+        "progreso": 0
+      },
+      {
+        "id": "hito_meta_11_2",
+        "nombre": "28 MIPYMES diagnosticadas.",
+        "fecha": "2026-12-31",
+        "peso": 0,
+        "completado": false,
+        "progreso": 0
+      },
+      {
+        "id": "hito_meta_11_3",
+        "nombre": "18 MIPYMES acompañadas en mejora continua.",
+        "fecha": "2026-12-31",
+        "peso": 0,
+        "completado": false,
+        "progreso": 0
+      }
+    ],
+    "estado": "en_progreso",
+    "prioridad": "media",
+    "fecha_creacion": "2025-01-01",
+    "notas": ""
+  },
+  {
+    "id": "meta_12",
+    "nombre": "Desarrollar capacidades empresariales mediante capacitación, cultura financiera e inclusión",
+    "indicador": "Empresarios y emprendedores con mayores capacidades de gestión, acceso a financiamiento y sostenibilidad de negocios, con enfoque inclusivo.",
+    "direccion": "Sin asignar",
+    "porcentaje_meta": 61.7,
+    "hitos": [
+      {
+        "id": "hito_meta_12_1",
+        "nombre": "Reestructuración de la Plataforma de Capacitación a Distancia (PCD).",
+        "fecha": "2026-12-31",
+        "peso": 25.0,
+        "completado": false,
+        "progreso": 0
+      },
+      {
+        "id": "hito_meta_12_2",
+        "nombre": "Implementación de programas de liderazgo empresarial e inclusión.",
+        "fecha": "2026-12-31",
+        "peso": 60.0,
+        "completado": false,
+        "progreso": 0
+      },
+      {
+        "id": "hito_meta_12_3",
+        "nombre": "Acciones de educación y cultura financiera en alianza con cooperativas.",
+        "fecha": "2026-12-31",
+        "peso": 100.0,
+        "completado": false,
+        "progreso": 0
+      }
+    ],
+    "estado": "en_progreso",
+    "prioridad": "media",
+    "fecha_creacion": "2025-01-01",
+    "notas": ""
+  },
+  {
+    "id": "meta_13",
+    "nombre": "Impulsar herramientas de planificación, financiamiento y digitalización para MIPYMES",
+    "indicador": "Mejora en la toma de decisiones empresariales y acceso a servicios financieros y no financieros",
+    "direccion": "Sin asignar",
+    "porcentaje_meta": 80.0,
+    "hitos": [
+      {
+        "id": "hito_meta_13_1",
+        "nombre": "Diseño e implementación de la Plataforma AVANZA MIPYMES con 2000 usuarios registrados",
+        "fecha": "2026-12-31",
+        "peso": 80.0,
+        "completado": false,
+        "progreso": 0
+      }
+    ],
+    "estado": "avanzado",
+    "prioridad": "media",
+    "fecha_creacion": "2025-01-01",
+    "notas": ""
+  },
+  {
+    "id": "meta_14",
+    "nombre": "Impulsar la implementación de beneficios e incentivos asociados a la Cédula MIPYMES a nivel organismos y entidades del Estados.",
+    "indicador": "Incremento de la formalización y permanencia de las MIPYMES en la economía formal a nivel nacional",
+    "direccion": "DGFR VMMIPYMES",
+    "porcentaje_meta": 90.0,
+    "hitos": [
+      {
+        "id": "hito_meta_14_1",
+        "nombre": "Hito 1: Al menos 500.000 Cédulas Mipymes emitidas",
+        "fecha": "2026-12-31",
+        "peso": 90.0,
+        "completado": false,
+        "progreso": 0
+      }
+    ],
+    "estado": "avanzado",
+    "prioridad": "media",
+    "fecha_creacion": "2025-01-01",
+    "notas": ""
+  },
+  {
+    "id": "meta_15",
+    "nombre": "Promover la simplificación y digitalización de los trámites de formalización",
+    "indicador": "Mejora en los tiempos, costos y la complejidad del proceso de formalización de las MIPYMES",
+    "direccion": "Sin asignar",
+    "porcentaje_meta": 60.0,
+    "hitos": [
+      {
+        "id": "hito_meta_15_1",
+        "nombre": "Hito 1: RENAMIPYMES 100% digital; emisión ≤ 48 horas; reducción ≥ 70% del tiempo de trámite.",
+        "fecha": "2026-12-31",
+        "peso": 60.0,
+        "completado": false,
+        "progreso": 0
+      }
+    ],
+    "estado": "en_progreso",
+    "prioridad": "media",
+    "fecha_creacion": "2025-01-01",
+    "notas": ""
+  },
+  {
+    "id": "meta_16",
+    "nombre": "Fortalecer el Registro Nacional de MIPYMES",
+    "indicador": "Crear una Base de Datos Nacional de las MIPYMES actualizada y efectiva para el diseño, implementación y focalización de políticas públicas y servicios de apoyo al sector.",
+    "direccion": "Sin asignar",
+    "porcentaje_meta": 46.7,
+    "hitos": [
+      {
+        "id": "hito_meta_16_1",
+        "nombre": "Hito 1: Interconexión con DNIT",
+        "fecha": "2026-12-31",
+        "peso": 60.0,
+        "completado": false,
+        "progreso": 0
+      },
+      {
+        "id": "hito_meta_16_2",
+        "nombre": "Hito 2: Interconexión con IPS",
+        "fecha": "2026-12-31",
+        "peso": 40.0,
+        "completado": false,
+        "progreso": 0
+      },
+      {
+        "id": "hito_meta_16_3",
+        "nombre": "Hito 3: Interconexión con MTESS",
+        "fecha": "2026-12-31",
+        "peso": 40.0,
+        "completado": false,
+        "progreso": 0
+      }
+    ],
+    "estado": "en_progreso",
+    "prioridad": "media",
+    "fecha_creacion": "2025-01-01",
+    "notas": ""
+  }
+]
